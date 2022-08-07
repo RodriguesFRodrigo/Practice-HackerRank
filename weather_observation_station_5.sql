@@ -13,3 +13,16 @@ select * from  -- Seleciona a primeira cidade da subquery
      from     station
      order by station_lenCity asc, station_city asc)
 where rownum = 1;
+
+-------------------------------------------------------------------------------------------------------
+
+-- Using FETCH
+select   city station_city, length(city) station_lenCity
+from     station
+order by station_lenCity desc, station_city asc
+fetch next 1 rows only;
+
+select   city station_city, length(city) station_lenCity
+from     station
+order by station_lenCity asc, station_city asc
+fetch next 1 rows only;
