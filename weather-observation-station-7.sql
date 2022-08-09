@@ -9,7 +9,7 @@ where city like '%a' or
 -- Using regexp_like
 select distinct city
 from station
-where regexp_like(city, '[aAeEiIoOuU]$', 'i');
+where regexp_like(city, '[aAeEiIoOuU]$');
 
 -- Using regexp_like and i lower and upper
 -- [aeiou] -> a or e or i or o or u
