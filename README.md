@@ -5,4 +5,4 @@
 - distinct
 - like operator
 - regexp_like
--- pattern to start with vowel
+- pattern to start with vowel
