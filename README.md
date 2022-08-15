@@ -59,3 +59,7 @@
 ## asian-population
 #### skills
 - inner join
+
+## african-cities
+#### skills
+- inner join
