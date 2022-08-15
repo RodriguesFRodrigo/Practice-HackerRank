@@ -63,3 +63,11 @@
 ## african-cities
 #### skills
 - inner join
+
+## average-population-of-each-continent
+#### skills
+- inner join
+- group by
+- floor
+- round
+- rounded down to the nearest integer
