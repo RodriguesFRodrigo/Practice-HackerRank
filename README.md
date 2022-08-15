@@ -55,3 +55,7 @@
 - distinct
 - regexp_like
 - pattern don't start with vowel and(.*) end with vowel
+
+## asian-population
+#### skills
+- inner join
