@@ -20,3 +20,10 @@
 - like operator
 - regexp_like
 - pattern to end with vowel
+
+## weather-observation-station-8
+#### skills
+- distinct
+- regexp_like
+- pattern to start and end with vowel
+- and  condition
