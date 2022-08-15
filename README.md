@@ -1,5 +1,9 @@
 # HackerRankOracleLogic
 
+## weather_observation_station_4
+#### skills
+- distinct with simple select
+
 ## weather_observation_station_5
 #### skills
 - subquery (select inside another select)
@@ -27,3 +31,27 @@
 - regexp_like
 - pattern to start and end with vowel
 - and  condition
+
+## weather-observation-station-9
+#### skills
+- distinct
+- regexp_like
+- pattern don't start with vowel
+
+## weather-observation-station-10
+#### skills
+- distinct
+- regexp_like
+- pattern don't end with vowel
+
+## weather-observation-station-11
+#### skills
+- distinct
+- regexp_like
+- pattern don't start with vowel or(|) end with vowel
+
+## weather-observation-station-12
+#### skills
+- distinct
+- regexp_like
+- pattern don't start with vowel and(.*) end with vowel
