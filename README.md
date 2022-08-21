@@ -56,6 +56,16 @@
 - regexp_like
 - pattern don't start with vowel and(.*) end with vowel
 
+## weather-observation-station-15
+#### skills
+- subquery
+- rownum
+
+## weather-observation-station-16
+#### skills
+- subquery
+- rownum
+
 ## weather-observation-station-17
 #### skills
 - subquery
