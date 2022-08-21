@@ -1,5 +1,9 @@
 # HackerRankOracleLogic
 
+## weather-observation-station-2.sql
+#### skills
+- sum
+
 ## weather_observation_station_4
 #### skills
 - distinct with simple select
