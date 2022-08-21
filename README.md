@@ -56,6 +56,11 @@
 - regexp_like
 - pattern don't start with vowel and(.*) end with vowel
 
+## weather-observation-station-17
+#### skills
+- subquery
+- rownum
+
 ## asian-population
 #### skills
 - inner join
