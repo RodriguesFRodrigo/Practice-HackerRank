@@ -1,4 +1,4 @@
-# HackerRankOracleLogic
+# Pratice HackerRank
 
 ## weather-observation-station-2.sql
 #### skills
