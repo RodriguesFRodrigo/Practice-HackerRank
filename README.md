@@ -79,6 +79,10 @@
 - subquery
 - rownum
 
+## weather-observation-station-19
+#### skills
+- power
+
 ## asian-population
 #### skills
 - inner join
